@@ -217,3 +217,8 @@ scripts/run_tests.sh
 MIT — see [LICENSE](LICENSE).
 
 Built by [Nous Research](https://nousresearch.com).
+
+
+## ULing19 True Fork Notice / 复刻声明
+
+This repository is maintained as a ULing19 true GitHub fork for integration experiments. See [ULING19_FORK_NOTICE.md](./ULING19_FORK_NOTICE.md).
